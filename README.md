@@ -9,6 +9,10 @@
 * [6 months roadmap by GPS](https://www.madebygps.com/cloudcamp/)
 ### Frontend Developer
 ### Backend Developer
+* HTTP
+* REST API
+* Pragraming language: Java Script/ Python/ Java
+* Database: MondoDB
 ### Full stack Developer
 ### Data Engineer
 ### IoS Developer
