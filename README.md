@@ -9,6 +9,9 @@
 * [6 months roadmap by GPS](https://www.madebygps.com/cloudcamp/)
 * 
 ### Frontend Developer
+* HTML
+* CSS
+* Javascript
 
 ### Backend Developer
 * HTTP
