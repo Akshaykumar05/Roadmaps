@@ -7,7 +7,7 @@
 ### Cloud Engineer
 * [Hindi: Cloud Engineer zero to hero by Rishav Kumar](https://youtu.be/1TdFGGmzn5M)
 * [6 months roadmap by GPS](https://www.madebygps.com/cloudcamp/)
-* 
+
 ### Frontend Developer
 * HTML
 * CSS
@@ -22,8 +22,15 @@
 * Basic Linux commands
 * Cloud: AWS/Azure/GCP
 * CI/CD
-  * Code Pipeline (AWS)
+* Code Pipeline (AWS)
  
 ### Full stack Developer
+
 ### Data Engineer
+* Python
+* SQL
+* Data Integration and ETL Pipelines
+* Big data tool: MongoDB
+* Cloud services
+  
 ### IoS Developer
