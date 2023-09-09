@@ -28,6 +28,7 @@
 
 ### Data Engineer
 * Python
+* Basics of Linux commands
 * SQL
 * Data Integration and ETL Pipelines
 * Big data tool: MongoDB
